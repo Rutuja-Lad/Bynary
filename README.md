@@ -1,4 +1,4 @@
-# BynaryThis is a Case Study Assignment from Bynry INC. for Backend Developer Intern
+# This is a Case Study Assignment from Bynry INC. for Backend Developer Intern
 
 Link to the Case Study Problem Statement is - https://drive.google.com/file/d/15lP5rpet05gX8O2lKqL-bbwn2JTxWyAs/view
 
